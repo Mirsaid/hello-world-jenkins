@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>WELCOME from Git to Ansible</h1>
-    <h1> <p>Congratulations! Everything automated</p></h1>
+    <h1> <p>Congratulations! Everything automated!</p></h1>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
