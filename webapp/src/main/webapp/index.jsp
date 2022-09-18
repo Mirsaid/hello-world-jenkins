@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>WELCOME  from Ansible</h1>
+    <h1>WELCOME from Git to Ansible</h1>
     <h1> <p>Congratulations!</p></h1>
     <hr>
      
